@@ -25,7 +25,7 @@
         Challenge for those more comfortable: If you’re feeling more comfortable, try implementing the Markdown to HTML conversion without using any external libraries, supporting headings, boldface text, unordered lists, links, and paragraphs. You may find using regular expressions in Python helpful.
 
 
-### Installing
+## Installing
 
 A step by step series of examples that tell you how to get a development env running
 
